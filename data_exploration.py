@@ -3,7 +3,6 @@
 import csv
 from dataclasses import dataclass
 from statistics import mean, median
-from unicodedata import numeric
 import numpy as np
 import matplotlib.pyplot as plt
 import math
