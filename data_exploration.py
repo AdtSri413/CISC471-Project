@@ -1,11 +1,9 @@
 ''' This file contains various data exploration procedures
 '''
 import csv
-from dataclasses import dataclass
 from statistics import mean, median
 import numpy as np
 import matplotlib.pyplot as plt
-import math
 
 
 ''' pretty printer for dicts
