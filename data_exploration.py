@@ -2,7 +2,6 @@
 '''
 import csv
 from statistics import mean, median
-from xml.dom import minicompat
 import numpy as np
 import matplotlib.pyplot as plt
 import math
